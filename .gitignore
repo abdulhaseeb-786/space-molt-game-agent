@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite*
+credentials*
+*.log
+logs/*.db
+logs/*.sqlite*
+!logs/events.jsonl
